@@ -1,0 +1,63 @@
+<!--
+BEGIN METADATA
+
+BBOX_X_MIN 128
+BBOX_Y_MIN -531
+BBOX_X_MAX 996
+BBOX_Y_MAX 1008
+WIDTH 868
+HEIGHT 1539
+H_BEARING_X 128
+H_BEARING_Y 1008
+H_ADVANCE 1176
+V_BEARING_X -460
+V_BEARING_Y 254
+V_ADVANCE 2048
+ORIGIN_X 0
+ORIGIN_Y 0
+
+END METADATA
+-->
+
+<svg width='2228px' height='2692px' xmlns='http://www.w3.org/2000/svg' version='1.1'>
+
+ <!-- make sure glyph is visible within svg window -->
+ <g fill-rule='nonzero'  transform='translate(100 1362)'>
+
+  <!-- draw actual outline using lines and Bezier curves-->
+  <path fill='black' stroke='black' fill-opacity='0.45'  stroke-width='2'  d='
+ M 587,-1008
+ Q 705,-1008 860,-929
+ L 881,-988
+ L 996,-988
+ L 996,531
+ L 832,531
+ L 832,-49
+ Q 701,20 564,20
+ Q 502,20 443,5
+ Q 385,-10 326,-47
+ Q 268,-85 225,-141
+ Q 182,-197 155,-286
+ Q 128,-376 128,-488
+ Q 128,-616 168,-718
+ Q 208,-820 274,-881
+ Q 341,-943 421,-975
+ Q 501,-1008 587,-1008
+ Z
+
+ M 597,-875
+ Q 457,-875 372,-775
+ Q 288,-675 288,-504
+ Q 288,-416 309,-346
+ Q 330,-277 363,-234
+ Q 397,-192 442,-164
+ Q 487,-137 530,-126
+ Q 574,-116 620,-116
+ Q 729,-116 832,-171
+ L 832,-819
+ Q 695,-875 597,-875
+ Z
+
+  '/>
+ </g>
+</svg>
